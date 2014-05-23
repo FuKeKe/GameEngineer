@@ -9,7 +9,7 @@ import android.opengl.GLSurfaceView;
 import android.util.Log;
 import android.view.MotionEvent;
 
-import com.gameEngine.object.Teapot;
+import com.gameEngine.sceneObject.Teapot;
 import com.gameEngine.touch.ZoomListener;
 import com.gameEngine.util.GlobalMatrixState;
 

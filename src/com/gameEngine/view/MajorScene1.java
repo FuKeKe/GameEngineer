@@ -9,7 +9,7 @@ import android.opengl.GLSurfaceView;
 import android.util.Log;
 import android.view.MotionEvent;
 
-import com.gameEngine.object.Girl;
+import com.gameEngine.sceneObject.Girl;
 import com.gameEngine.touch.ZoomListener;
 import com.gameEngine.util.GlobalMatrixState;
 

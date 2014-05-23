@@ -7,7 +7,7 @@ import android.content.Context;
 import android.opengl.GLES20;
 import android.opengl.GLSurfaceView;
 
-import com.gameEngine.object.TestDae;
+import com.gameEngine.sceneObject.TestDae;
 import com.gameEngine.touch.ZoomListener;
 import com.gameEngine.util.GlobalMatrixState;
 
